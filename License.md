@@ -1,4 +1,4 @@
-Copyright 2025 Weiheng Su
+Copyright 2025
 
 All rights reserved.
 
@@ -13,4 +13,4 @@ You are not permitted to:
 
 This software is not open source, and no license is granted to any third party.
 
-Unauthorized use is strictly prohibited. For licensing inquiries, contact [Your Contact Info].
+Unauthorized use is strictly prohibited. For licensing inquiries, contact waywayway01234@gmail.com.
